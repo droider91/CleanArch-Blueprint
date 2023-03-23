@@ -22,11 +22,11 @@ Just click on [![Use this template](https://camo.githubusercontent.com/2a7da879b
 
 
 
-​    <img src="screenshots/todo_home.png" alt="todo" title="ToDO HomeScreen"  width="150" /><img src="screenshots/location.JPEG" alt="todo" title="ToDo Screen"  width="150" />
+​    <img src="screenshots/todo_home.png" alt="todo" title="ToDO HomeScreen"  width="150" />
 
-​    <img src="screenshots/home_with_todo.png" alt="todo" title="ToDO HomeScreen"  width="150" /><img src="screenshots/location.JPEG" alt="todo" title="ToDo Screen"  width="150" />
+​    <img src="screenshots/home_with_todo.png" alt="todo" title="ToDO HomeScreen"  width="150" />
 
-​    <img src="screenshots/update_todo.png" alt="todo" title="Update Todo"  width="150" /><img src="screenshots/location.JPEG" alt="todo" title="Update  ToDoScreen"  width="150" />
+​    <img src="screenshots/update_todo.png" alt="todo" title="Update Todo"  width="150" />
 
 
 Libraries Used
